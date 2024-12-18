@@ -39,7 +39,7 @@ export function RoadmapDetail() {
                 to={`/phase/${roadmap.id}/${phase.id}`}
                 className="inline-block text-blue-500 font-semibold hover:text-blue-700 transition duration-300 mt-auto"
               >
-                Start Learning
+                Start This Module
               </Link>
             </div>
           ))}

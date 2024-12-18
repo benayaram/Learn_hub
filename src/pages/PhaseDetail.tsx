@@ -37,13 +37,18 @@ export function PhaseDetail() {
               <h2 className="text-xl font-semibold text-gray-800 mb-4">
                 {course.title}
               </h2>
+              <p>
+              <a href={course.url} target="_blank"
+                rel="noopener noreferrer"
+                className="inline-block text-blue-500 font-semibold hover:text-blue-700 transition duration-300"
+              >Link</a></p>
               <a
-                href={course.url}
+                href={`https://www.youtube.com/results?search_query=${course.title}`}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-block text-blue-500 font-semibold hover:text-blue-700 transition duration-300"
               >
-                Start Course
+                View Topic
               </a>
             </li>
           ))}

@@ -4,32 +4,41 @@
       "id": "network-administrator",
       "title": "Network Administrator Career Path",
       "description": "Complete roadmap to become a professional network administrator with hands-on practice, certifications, and job preparation.",
-      "image": "https://images.unsplash.com/photo-1551703599-6b3e8379766c?auto=format&fit=crop&w=800&q=80",
+      "image": "https://images.pexels.com/photos/1054397/pexels-photo-1054397.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "phases": [
         {
           "id": "p1",
           "title": "Basic Network Fundamentals",
           "description": "Understanding the fundamental building blocks of networking.",
           "courses": [
-            { "title": "Network Topologies", "url": "https://www.example.com" },
-            { "title": "OSI Model", "url": "https://www.example.com" },
+            {
+              "title": "Network Topologies",
+              "url": ""
+            },
+            {
+              "title": "OSI Model",
+              "url": ""
+            },
             {
               "title": "TCP/IP Protocol Suite",
-              "url": "https://www.example.com"
+              "url": ""
             },
             {
               "title": "IPv4 and IPv6 Addressing",
-              "url": "https://www.example.com"
+              "url": ""
             },
             {
               "title": "Subnetting and Supernetting",
-              "url": "https://www.example.com"
+              "url": ""
             },
             {
               "title": "VLAN and InterVLAN Routing",
-              "url": "https://www.example.com"
+              "url": ""
             },
-            { "title": "Wireless Networking", "url": "https://www.example.com" }
+            {
+              "title": "Wireless Networking",
+              "url": ""
+            }
           ]
         },
         {
@@ -37,19 +46,34 @@
           "title": "Hardware Configuration and Maintenance",
           "description": "Configure and maintain networking hardware and devices.",
           "courses": [
-            { "title": "Routers", "url": "https://www.example.com" },
-            { "title": "Switches", "url": "https://www.example.com" },
-            { "title": "Firewall", "url": "https://www.example.com" },
-            { "title": "Servers", "url": "https://www.example.com" },
+            {
+              "title": "Routers",
+              "url": ""
+            },
+            {
+              "title": "Switches",
+              "url": ""
+            },
+            {
+              "title": "Firewall",
+              "url": ""
+            },
+            {
+              "title": "Servers",
+              "url": ""
+            },
             {
               "title": "Desktops and Laptops",
-              "url": "https://www.example.com"
+              "url": ""
             },
             {
               "title": "Fax Machines and Printers",
-              "url": "https://www.example.com"
+              "url": ""
             },
-            { "title": "UPS and Cables", "url": "https://www.example.com" }
+            {
+              "title": "UPS and Cables",
+              "url": ""
+            }
           ]
         },
         {
@@ -57,27 +81,33 @@
           "title": "Software Administration",
           "description": "Administer software and configure various server and network services.",
           "courses": [
-            { "title": "Operating Systems", "url": "https://www.example.com" },
+            {
+              "title": "Operating Systems",
+              "url": ""
+            },
             {
               "title": "Command Line Interface (CLI)",
-              "url": "https://www.example.com"
+              "url": ""
             },
-            { "title": "VPN Configuration", "url": "https://www.example.com" },
+            {
+              "title": "VPN Configuration",
+              "url": ""
+            },
             {
               "title": "Troubleshooting Software Issues",
-              "url": "https://www.example.com"
+              "url": ""
             },
             {
               "title": "DHCP and DNS Server Setup",
-              "url": "https://www.example.com"
+              "url": ""
             },
             {
               "title": "Proxy Server Configuration",
-              "url": "https://www.example.com"
+              "url": ""
             },
             {
               "title": "Email Server Configuration",
-              "url": "https://www.example.com"
+              "url": ""
             }
           ]
         },
@@ -88,28 +118,31 @@
           "courses": [
             {
               "title": "Threats and Vulnerability",
-              "url": "https://www.example.com"
+              "url": ""
             },
             {
               "title": "Implementing Firewalls",
-              "url": "https://www.example.com"
+              "url": ""
             },
             {
               "title": "Intrusion Detection System",
-              "url": "https://www.example.com"
+              "url": ""
             },
             {
               "title": "Data Leakage Prevention",
-              "url": "https://www.example.com"
+              "url": ""
             },
             {
               "title": "Secure Remote Access",
-              "url": "https://www.example.com"
+              "url": ""
             },
-            { "title": "VPN and Encryption", "url": "https://www.example.com" },
+            {
+              "title": "VPN and Encryption",
+              "url": ""
+            },
             {
               "title": "Antivirus Administration",
-              "url": "https://www.example.com"
+              "url": ""
             }
           ]
         },
@@ -120,22 +153,31 @@
           "courses": [
             {
               "title": "Network Monitoring Tools",
-              "url": "https://www.example.com"
+              "url": ""
             },
             {
               "title": "Bandwidth Management",
-              "url": "https://www.example.com"
+              "url": ""
             },
-            { "title": "Performance Tuning", "url": "https://www.example.com" },
-            { "title": "Traffic Shaping", "url": "https://www.example.com" },
-            { "title": "Load Balancing", "url": "https://www.example.com" },
+            {
+              "title": "Performance Tuning",
+              "url": ""
+            },
+            {
+              "title": "Traffic Shaping",
+              "url": ""
+            },
+            {
+              "title": "Load Balancing",
+              "url": ""
+            },
             {
               "title": "Fault Detection and Isolation",
-              "url": "https://www.example.com"
+              "url": ""
             },
             {
               "title": "Network Troubleshooting",
-              "url": "https://www.example.com"
+              "url": ""
             }
           ]
         },
@@ -146,19 +188,28 @@
           "courses": [
             {
               "title": "Installation and Configuration",
-              "url": "https://www.example.com"
+              "url": ""
             },
-            { "title": "Patch Management", "url": "https://www.example.com" },
+            {
+              "title": "Patch Management",
+              "url": ""
+            },
             {
               "title": "Active Directory Setup",
-              "url": "https://www.example.com"
+              "url": ""
             },
-            { "title": "Mail Server Setup", "url": "https://www.example.com" },
+            {
+              "title": "Mail Server Setup",
+              "url": ""
+            },
             {
               "title": "Virtualization Server Management",
-              "url": "https://www.example.com"
+              "url": ""
             },
-            { "title": "Backup and Recovery", "url": "https://www.example.com" }
+            {
+              "title": "Backup and Recovery",
+              "url": ""
+            }
           ]
         },
         {
@@ -166,21 +217,30 @@
           "title": "Service Continuity Management",
           "description": "Learn how to ensure business continuity through backups and disaster recovery.",
           "courses": [
-            { "title": "Backup Strategies", "url": "https://www.example.com" },
+            {
+              "title": "Backup Strategies",
+              "url": ""
+            },
             {
               "title": "Disaster Recovery Planning",
-              "url": "https://www.example.com"
+              "url": ""
             },
             {
               "title": "Failover Clustering",
-              "url": "https://www.example.com"
+              "url": ""
             },
-            { "title": "Redundancy", "url": "https://www.example.com" },
+            {
+              "title": "Redundancy",
+              "url": ""
+            },
             {
               "title": "Storage Area Network (SAN) Management",
-              "url": "https://www.example.com"
+              "url": ""
             },
-            { "title": "Cloud Backup", "url": "https://www.example.com" }
+            {
+              "title": "Cloud Backup",
+              "url": ""
+            }
           ]
         },
         {
@@ -190,24 +250,27 @@
           "courses": [
             {
               "title": "Network Architecture Design",
-              "url": "https://www.example.com"
+              "url": ""
             },
             {
               "title": "Scalability and Resilience Considerations",
-              "url": "https://www.example.com"
+              "url": ""
             },
-            { "title": "WAN and LAN Design", "url": "https://www.example.com" },
+            {
+              "title": "WAN and LAN Design",
+              "url": ""
+            },
             {
               "title": "Network Cabling Design",
-              "url": "https://www.example.com"
+              "url": ""
             },
             {
               "title": "Wireless Network Planning",
-              "url": "https://www.example.com"
+              "url": ""
             },
             {
               "title": "Implementing Network Changes",
-              "url": "https://www.example.com"
+              "url": ""
             }
           ]
         },
@@ -216,26 +279,29 @@
           "title": "Vendor Management",
           "description": "Learn to manage vendors and network devices effectively.",
           "courses": [
-            { "title": "Software Licensing", "url": "https://www.example.com" },
+            {
+              "title": "Software Licensing",
+              "url": ""
+            },
             {
               "title": "Procurement of Network Devices",
-              "url": "https://www.example.com"
+              "url": ""
             },
             {
               "title": "SLA and Contract Review",
-              "url": "https://www.example.com"
+              "url": ""
             },
             {
               "title": "Vendor Evaluation and Selection",
-              "url": "https://www.example.com"
+              "url": ""
             },
             {
               "title": "Warranty and Maintenance Contract Management",
-              "url": "https://www.example.com"
+              "url": ""
             },
             {
               "title": "Invoice Reconciliation",
-              "url": "https://www.example.com"
+              "url": ""
             }
           ]
         },
@@ -246,24 +312,53 @@
           "courses": [
             {
               "title": "Creating Security Policies",
-              "url": "https://www.example.com"
+              "url": ""
             },
             {
               "title": "Network Usage Policy",
-              "url": "https://www.example.com"
+              "url": ""
             },
             {
               "title": "Password and Access Policy",
-              "url": "https://www.example.com"
+              "url": ""
             },
             {
               "title": "Incident Response Procedure",
-              "url": "https://www.example.com"
+              "url": ""
             },
-            { "title": "Network Audits", "url": "https://www.example.com" },
+            {
+              "title": "Network Audits",
+              "url": ""
+            },
             {
               "title": "Compliance with Regulatory Standards",
-              "url": "https://www.example.com"
+              "url": ""
+            }
+          ]
+        }
+      ]
+    },{
+      "id": "android-developer-with-kotlin",
+      "title": "Android Developer with Kotlin",
+      "description": "Complete roadmap to become a professional Android developer with Kotlin, including hands-on projects, official resources, and career preparation.",
+      "image": "https://images.pexels.com/photos/1092644/pexels-photo-1092644.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "phases": [
+        {
+          "id": "p1",
+          "title": "Getting Started with Android Development",
+          "description": "Learn the fundamentals of Android development using Kotlin, including UI design, activity lifecycle, and state management.",
+          "courses": [
+            {
+              "title": "Android Basics in Kotlin - Official Course",
+              "url": "https://developer.android.com/courses/android-basics-compose/course?hl=en"
+            },
+            {
+              "title": "Google Play Academy - Certificate Programs",
+              "url": "https://playacademy.withgoogle.com/certificate/"
+            },
+            {
+              "title": "Google Play Academy - Training Courses",
+              "url": "https://playacademy.withgoogle.com/courses/"
             }
           ]
         }
@@ -271,3 +366,4 @@
     }
   ]
 }
+    
