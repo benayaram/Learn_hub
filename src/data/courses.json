@@ -1,0 +1,47 @@
+{
+  "courses": [
+    {
+      "id": "networking-fundamentals",
+      "title": "Networking Fundamentals",
+      "description": "Master the core concepts of computer networking",
+      "image": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=800&q=80",
+      "category": "Networking",
+      "duration": "8 weeks",
+      "level": "beginner",
+      "modules": [
+        {
+          "id": "m1",
+          "title": "Introduction to Networks",
+          "description": "Learn the basics of computer networks and their importance",
+          "resources": [
+            {
+              "id": "r1",
+              "title": "What is Computer Networking?",
+              "url": "https://www.youtube.com/watch?v=3QhU9jd03a0",
+              "type": "video"
+            },
+            {
+              "id": "r2",
+              "title": "Network Types and Topologies",
+              "url": "https://www.cisco.com/c/en/us/solutions/enterprise-networks/what-is-computer-networking.html",
+              "type": "article"
+            }
+          ]
+        },
+        {
+          "id": "m2",
+          "title": "OSI Model",
+          "description": "Understanding the 7 layers of the OSI model",
+          "resources": [
+            {
+              "id": "r3",
+              "title": "OSI Model Explained",
+              "url": "https://www.youtube.com/watch?v=LANW3m7UgWs",
+              "type": "video"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
